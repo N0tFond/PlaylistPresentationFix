@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+body {
+  background-size: auto;
+  background: linear-gradient(#f13f12, #4d5ae6);
+  background-repeat: no-repeat;
+  background-size: cover;
+  user-select: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
