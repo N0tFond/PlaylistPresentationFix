@@ -6,7 +6,7 @@
 
 body {
   background-size: auto;
-  background: linear-gradient(#f13f12, #4d5ae6);
+  background: url(assets/background.png);
   background-repeat: no-repeat;
   background-size: cover;
   user-select: none;
