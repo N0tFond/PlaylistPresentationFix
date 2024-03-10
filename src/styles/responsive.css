@@ -8,6 +8,7 @@
     flex-direction: column;
     background-repeat: no-repeat;
     background-size: cover;
+    background: url(assets/backdroung_mobile.png);
   }
   .title_site {
     display: flex;
