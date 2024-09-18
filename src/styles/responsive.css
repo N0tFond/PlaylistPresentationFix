@@ -6,10 +6,9 @@
   body {
     display: flex;
     flex-direction: column;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background: url(assets/backdroung_mobile.png);
+    background-color: rgb(21, 21, 21);
   }
+
   .title_site {
     display: flex;
     justify-content: center;
@@ -30,7 +29,8 @@
     text-underline-offset: 5px;
   }
 
-  .playlists {
+  .playlists_first-container,
+  .playlist_second-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -43,6 +43,6 @@
   ul {
     display: flex;
     flex-direction: column;
-    border-radius: 15px;
+    border-radius: 20px;
   }
 }
