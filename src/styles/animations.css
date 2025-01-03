@@ -1,7 +1,6 @@
 iframe:hover {
   border-radius: 12px;
   transition: 0.5s ease-in-out;
-  transform: scale(1.03);
   box-shadow: 0 0 2px #fff, 0 0 10px #fff, 0 0 20px rgb(194, 240, 231), 0 0 30px rgb(168, 233, 242);
 }
 
